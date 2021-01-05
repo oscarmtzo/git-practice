@@ -1,0 +1,2 @@
+Name: oscar
+Favorite color: green
